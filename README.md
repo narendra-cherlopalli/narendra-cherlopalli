@@ -5,7 +5,7 @@
 **LLM Engineer + EPM Professional** — building agentic AI systems for Finance and 
 Supply Chain at the intersection of Oracle EPM, SAP S/4HANA, and production-grade 
 LLM architectures.
----
+---   
 
 ### 🏗️ What I Build
 
